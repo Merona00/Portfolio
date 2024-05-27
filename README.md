@@ -30,7 +30,8 @@
 >   
 > ![로그인 화면](https://github.com/Merona00/Portfolio/assets/107087059/e074517b-80bc-4a95-a074-1722a9b152fe)
 > 
-> ![회원정보 수정 화면](https://github.com/Merona00/Portfolio/assets/107087059/990a3b80-2f9b-4484-80d6-8d049c4fab16)
+> ![회원정보 수정 화면](https://github.com/Merona00/Portfolio/assets/107087059/990a3b80-2f9b-4484-80d6-8d049c4fab16)  ![회원정보 수정 전 로그인 화면](https://github.com/Merona00/Portfolio/assets/107087059/64bd5481-ff7f-4ef4-aeb4-51e9c50cc893)
+
 
 
 
