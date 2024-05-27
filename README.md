@@ -27,12 +27,19 @@
 > * 개발 도구
 >   * Language : JAVA
 > * 역할 : 사용자 등록/수정/삭제, 로그인/로그아웃 구현 및 UI 개발
->   
+>
+> 
+> ![Uploading image.png…]()
+>
 > ![로그인 화면](https://github.com/Merona00/Portfolio/assets/107087059/e074517b-80bc-4a95-a074-1722a9b152fe)
 > 
 > ![회원정보 수정 화면](https://github.com/Merona00/Portfolio/assets/107087059/990a3b80-2f9b-4484-80d6-8d049c4fab16)  ![회원정보 수정 전 로그인 화면](https://github.com/Merona00/Portfolio/assets/107087059/64bd5481-ff7f-4ef4-aeb4-51e9c50cc893)
 
 
-
-
 ## 3. 농수산물 거래 페이지
+> 대학교 2학년 자바프로그래밍 강의 과제로 진행했던 프로젝트 입니다.
+> * 개발 기간 : 2023.09 - 2032.12
+> * 프로젝트 내용: 실시간 채팅, 멀티 채팅, 그림판을 구현하여 채팅 프로그램을 설계한다.
+> * 개발 도구
+>   * Language : JAVA
+> * 역할 : 사용자 등록/수정/삭제, 로그인/로그아웃 구현 및 UI 개발
