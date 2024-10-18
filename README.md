@@ -58,7 +58,8 @@
 >   * Skill : Expo
 > * 역할 : 시니어를 위한 앱을 개선하기 위해 웹페이지 형태의 앱을 개발
 > * [프로젝트 웹](https://health-guardian.netlify.app/)
-> * [ 셀프메디케이션_박지원.pdf…]()
+> * [Uploading 셀프메디케이션_박지원.pdf…]()
+
 
 > ![image](https://github.com/Merona00/Portfolio/assets/107087059/be58299a-87d0-45fd-ae52-13fea9849b11)
 > ![image](https://github.com/Merona00/Portfolio/assets/107087059/b8fb7997-4265-4376-bcca-2045aebd9e33)
